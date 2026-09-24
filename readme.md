@@ -96,14 +96,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or support, please contact:
-
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-
 ---
 
 Thank you for using the Odoo Hospital Management System addon! We welcome feedback and suggestions to improve the module.
