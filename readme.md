@@ -49,17 +49,6 @@ This custom Odoo addon is designed for managing hospital operations, including m
 
 4. Use the **Doctors** submenu to manage doctor information and availability.
 
-## Screenshots
-
-![Dashboard](path/to/dashboard-screenshot.png)
-_Caption: Hospital Management Dashboard_
-
-![Patient Management](path/to/patient-management-screenshot.png)
-_Caption: Patient Management Interface_
-
-![Appointment Management](path/to/appointment-management-screenshot.png)
-_Caption: Appointment Scheduling_
-
 ## Dependencies
 
 - Odoo 15 or later.
